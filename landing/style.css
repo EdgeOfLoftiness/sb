@@ -1,0 +1,132 @@
+body {
+    background-color: #ffffff;
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 30px;
+}
+
+th,
+td,
+tr {
+    font-family: "Roboto", Arial, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+th {
+    font-size: 18px;
+    border: black 4px solid;
+    background-color: #C0FC02;
+    border-radius: 5px;
+}
+
+td {
+    font-size: 24px;
+    border: black 4px solid;
+}
+
+td,
+tr {
+    text-align: center;
+}
+
+td {
+    color: black;
+    border: black 4px solid;
+    border-radius: 5px;
+    font-size: 28px;
+}
+
+tr {
+    background-color: #F1F3F8;
+}
+
+.myButton5 {
+    background-color: #F1F3EA;
+    border-radius: 10px;
+    border: 2px solid #000000;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    color: #000000;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    padding: 5px 5px;
+    text-decoration: none;
+    text-shadow: 1px 0px 0px #702B6B;
+}
+
+.myButton5:hover {
+    background-color: #C0FC02;
+}
+
+.myButton5:active {
+    position: relative;
+    top: 1px;
+}
+
+.myButton6 {
+    background-color: #000000;
+    border-radius: 10px;
+    border: 2px solid #000000;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.myButton7 {
+    background-color: #011617;
+    border-radius: 20px;
+    border: 2px solid #000000;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.myButton8 {
+    background-color: #23B925;
+    border-radius: 20px;
+    border: 2px solid #000000;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    color: #000000;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.myButton9 {
+    background-color: #FE0000;
+    border-radius: 20px;
+    border: 2px solid #000000;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
