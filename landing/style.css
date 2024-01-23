@@ -49,18 +49,25 @@ tr {
     background-color: #F1F3F8;
 }
 
-.myButton5 {
-    background-color: #F1F3EA;
+.myButton5,
+.myButton6,
+.myButton7,
+.myButton8,
+.myButton9 {
     border-radius: 10px;
     border: 2px solid #000000;
     display: inline-block;
     margin: 2px;
     cursor: pointer;
-    color: #000000;
     font-family: 'Ubuntu', sans-serif;
     font-size: 24px;
     padding: 5px 5px;
     text-decoration: none;
+}
+
+.myButton5 {
+    background-color: #F1F3EA;
+    color: #000000;
     text-shadow: 1px 0px 0px #702B6B;
 }
 
@@ -68,65 +75,27 @@ tr {
     background-color: #C0FC02;
 }
 
-.myButton5:active {
-    position: relative;
-    top: 1px;
-}
-
 .myButton6 {
     background-color: #000000;
-    border-radius: 10px;
-    border: 2px solid #000000;
-    display: inline-block;
-    margin: 2px;
-    cursor: pointer;
     color: #FFFFFF;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 24px;
-    padding: 5px 5px;
-    text-decoration: none;
 }
 
 .myButton7 {
     background-color: #011617;
-    border-radius: 20px;
-    border: 2px solid #000000;
-    display: inline-block;
-    margin: 2px;
-    cursor: pointer;
     color: #FFFFFF;
-    font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
-    padding: 5px 5px;
-    text-decoration: none;
 }
 
 .myButton8 {
     background-color: #23B925;
-    border-radius: 20px;
-    border: 2px solid #000000;
-    display: inline-block;
-    margin: 2px;
-    cursor: pointer;
     color: #000000;
     font-weight: bold;
-    font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
-    padding: 5px 5px;
-    text-decoration: none;
 }
 
 .myButton9 {
     background-color: #FE0000;
-    border-radius: 20px;
-    border: 2px solid #000000;
-    display: inline-block;
-    margin: 2px;
-    cursor: pointer;
     color: #ffffff;
     font-weight: bold;
-    font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
-    padding: 5px 5px;
-    text-decoration: none;
 }
