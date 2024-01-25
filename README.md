@@ -9,10 +9,7 @@
 - [Metrics](#metrics)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Technologies Used](#technologies-used)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Overview
 
