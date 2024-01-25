@@ -1,0 +1,101 @@
+body {
+    background-color: #ffffff;
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 30px;
+}
+
+th,
+td,
+tr {
+    font-family: "Roboto", Arial, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+th {
+    font-size: 18px;
+    border: black 4px solid;
+    background-color: #C0FC02;
+    border-radius: 5px;
+}
+
+td {
+    font-size: 24px;
+    border: black 4px solid;
+}
+
+td,
+tr {
+    text-align: center;
+}
+
+td {
+    color: black;
+    border: black 4px solid;
+    border-radius: 5px;
+    font-size: 28px;
+}
+
+tr {
+    background-color: #F1F3F8;
+}
+
+.myButton5,
+.myButton6,
+.myButton7,
+.myButton8,
+.myButton9 {
+    border-radius: 10px;
+    border: 2px solid #000000;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.myButton5 {
+    background-color: #F1F3EA;
+    color: #000000;
+    text-shadow: 1px 0px 0px #702B6B;
+}
+
+.myButton5:hover {
+    background-color: #C0FC02;
+}
+
+.myButton6 {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.myButton7 {
+    background-color: #011617;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.myButton8 {
+    background-color: #23B925;
+    color: #000000;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.myButton9 {
+    background-color: #FE0000;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 30px;
+}
