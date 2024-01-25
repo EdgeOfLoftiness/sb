@@ -1,6 +1,6 @@
 # DIR JPROA SB Web Dashboard
 
-![Dashboard Screenshot](/screenshots/dashboard.png)
+![Dashboard Screenshot](src/dashboard.PNG)
 
 ## Table of Contents
 
