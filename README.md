@@ -49,3 +49,13 @@ To install and run the DIR JPROA SB Web Dashboard locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/dir-jproa-sb-dashboard.git
+
+2. Open the index.html file in your preferred web browser.(firefox is not supported)
+
+## Technologies Used
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- Chart.js
